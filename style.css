@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+html {
+    background-color: white;
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #DD6E42;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.navitem {
+    float: left;
+}
+
+.navitem a {
+    display: block;
+    color:rgb(32, 32, 30);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    top: 355px;
+}
+
+header {
+    margin: 0;
+    padding: 15px;
+}
+
+.headName {
+    color:#DD6E42;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: rgb(32, 32, 30) 20px 16px;
+    font-size: 225px;
+    margin-top: -30px;
+}
+
+.headLine {
+    color: rgb(32, 32, 30);
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: #DD6E42 1.5px 2px;
+    font-size: 50px;
+    margin-top: -195px;
+}
+
+#headHR1 {
+    border: 25px;
+    border-width: 75px;
+    border-top: black solid 4px;
+    margin-top: -45px;
+    margin-right: 720px;
+}
+
+#headHR2 {
+    border: 25px;
+    border-width: 75px;
+    border-top: black solid 4px;
+    margin-top: -45px;
+    margin-right: 930px;
+}
+
+#headHR3 {
+    border: 25px;
+    border-width: 75px;
+    border-top: black solid 4px;
+    margin-top: -45px;
+    margin-right: 765px;
+}
+
+#headHR4 {
+    border: 25px;
+    border-width: 75px;
+    border-top: black solid 4px;
+    margin-top: -45px;
+    margin-right: 920px;
+}
+
+#index_sec1 {
+    margin: 15px;
+    background-color: teal;
+}
+
+.tableofcontents {
+    padding: 25px;
+    background-color: seashell;
+}
+
+.toc_container {
+}
+
+.toc_ul {
+}
+
+.toc_li {
+}
+
+.desc_container {
+    padding: 25px;
+    background-color: teal;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.desc_image {
+    width: 200px;
+    height: 200px;
+    background-color: seashell;
+}
+
+.desc_text {
+    color: rgb(32, 32, 30);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#philosophy_container {
+    padding: 25px;
+}
+
+#philosophy_statement {
+    color:rgb(32, 32, 30);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 75px;
+}
+
+#philosophy_context {
+
+}
